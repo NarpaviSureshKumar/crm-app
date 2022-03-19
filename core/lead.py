@@ -12,4 +12,7 @@ def create_lead():
 def update_lead():
 	print "Lead udpated successfully."
 
+#Delete lead.
+def delete_lead():
+	print "Lead deleted successfully."
 
